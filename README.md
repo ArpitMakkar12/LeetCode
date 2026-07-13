@@ -49,4 +49,8 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ArpitMakkar12/LeetCode/tree/master/0067-add-binary) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/ArpitMakkar12/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
