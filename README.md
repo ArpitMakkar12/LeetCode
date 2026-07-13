@@ -30,13 +30,23 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ArpitMakkar12/LeetCode/tree/master/0067-add-binary) |
 | [1441-build-an-array-with-stack-operations](https://github.com/ArpitMakkar12/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ArpitMakkar12/LeetCode/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ArpitMakkar12/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Enumeration
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/ArpitMakkar12/LeetCode/tree/master/1291-sequential-digits) |
+## String
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/ArpitMakkar12/LeetCode/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/ArpitMakkar12/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
