@@ -63,6 +63,7 @@
 | [1148-article-views-i](https://github.com/ArpitMakkar12/LeetCode/tree/master/1148-article-views-i) |
 | [1193-monthly-transactions-i](https://github.com/ArpitMakkar12/LeetCode/tree/master/1193-monthly-transactions-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/ArpitMakkar12/LeetCode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/ArpitMakkar12/LeetCode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/ArpitMakkar12/LeetCode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/ArpitMakkar12/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
