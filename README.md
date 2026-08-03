@@ -67,6 +67,7 @@
 | [1068-product-sales-analysis-i](https://github.com/ArpitMakkar12/LeetCode/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/ArpitMakkar12/LeetCode/tree/master/1148-article-views-i) |
 | [1193-monthly-transactions-i](https://github.com/ArpitMakkar12/LeetCode/tree/master/1193-monthly-transactions-i) |
+| [1251-average-selling-price](https://github.com/ArpitMakkar12/LeetCode/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/ArpitMakkar12/LeetCode/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/ArpitMakkar12/LeetCode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/ArpitMakkar12/LeetCode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
