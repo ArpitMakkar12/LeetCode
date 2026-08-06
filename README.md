@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ArpitMakkar12/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0238-product-of-array-except-self](https://github.com/ArpitMakkar12/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0636-exclusive-time-of-functions](https://github.com/ArpitMakkar12/LeetCode/tree/master/0636-exclusive-time-of-functions) |
 | [1441-build-an-array-with-stack-operations](https://github.com/ArpitMakkar12/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 ## Stack
@@ -78,4 +79,8 @@
 | [1683-invalid-tweets](https://github.com/ArpitMakkar12/LeetCode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/ArpitMakkar12/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/ArpitMakkar12/LeetCode/tree/master/1934-confirmation-rate) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/ArpitMakkar12/LeetCode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
