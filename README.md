@@ -26,6 +26,7 @@
 | [0238-product-of-array-except-self](https://github.com/ArpitMakkar12/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0636-exclusive-time-of-functions](https://github.com/ArpitMakkar12/LeetCode/tree/master/0636-exclusive-time-of-functions) |
 | [1441-build-an-array-with-stack-operations](https://github.com/ArpitMakkar12/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/ArpitMakkar12/LeetCode/tree/master/2428-maximum-sum-of-an-hourglass) |
 ## Stack
 |  |
 | ------- |
@@ -94,6 +95,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ArpitMakkar12/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/ArpitMakkar12/LeetCode/tree/master/2428-maximum-sum-of-an-hourglass) |
 ## Hash Table
 |  |
 | ------- |
@@ -109,6 +111,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/ArpitMakkar12/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ArpitMakkar12/LeetCode/tree/master/0037-sudoku-solver) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/ArpitMakkar12/LeetCode/tree/master/2428-maximum-sum-of-an-hourglass) |
 ## Algorithm X
 |  |
 | ------- |
