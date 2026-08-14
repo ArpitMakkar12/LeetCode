@@ -42,6 +42,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ArpitMakkar12/LeetCode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/ArpitMakkar12/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ArpitMakkar12/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Enumeration
 |  |
@@ -132,8 +133,13 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ArpitMakkar12/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/ArpitMakkar12/LeetCode/tree/master/0070-climbing-stairs) |
 ## Manacher
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ArpitMakkar12/LeetCode/tree/master/0005-longest-palindromic-substring) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ArpitMakkar12/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
