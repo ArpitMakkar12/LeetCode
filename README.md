@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ArpitMakkar12/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0169-majority-element](https://github.com/ArpitMakkar12/LeetCode/tree/master/0169-majority-element) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -23,6 +24,7 @@
 | [0036-valid-sudoku](https://github.com/ArpitMakkar12/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ArpitMakkar12/LeetCode/tree/master/0037-sudoku-solver) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ArpitMakkar12/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0169-majority-element](https://github.com/ArpitMakkar12/LeetCode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/ArpitMakkar12/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ArpitMakkar12/LeetCode/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/ArpitMakkar12/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -108,6 +110,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/ArpitMakkar12/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/ArpitMakkar12/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ArpitMakkar12/LeetCode/tree/master/0037-sudoku-solver) |
+| [0169-majority-element](https://github.com/ArpitMakkar12/LeetCode/tree/master/0169-majority-element) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ArpitMakkar12/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Backtracking
 |  |
@@ -151,4 +154,16 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ArpitMakkar12/LeetCode/tree/master/0070-climbing-stairs) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ArpitMakkar12/LeetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ArpitMakkar12/LeetCode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ArpitMakkar12/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
