@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ArpitMakkar12/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/ArpitMakkar12/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -173,4 +174,8 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ArpitMakkar12/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/ArpitMakkar12/LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
