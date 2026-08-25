@@ -28,6 +28,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/ArpitMakkar12/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/ArpitMakkar12/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ArpitMakkar12/LeetCode/tree/master/0037-sudoku-solver) |
+| [0088-merge-sorted-array](https://github.com/ArpitMakkar12/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ArpitMakkar12/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/ArpitMakkar12/LeetCode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/ArpitMakkar12/LeetCode/tree/master/0198-house-robber) |
@@ -154,6 +155,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ArpitMakkar12/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0088-merge-sorted-array](https://github.com/ArpitMakkar12/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0234-palindrome-linked-list](https://github.com/ArpitMakkar12/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ArpitMakkar12/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Dynamic Programming
@@ -174,6 +176,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/ArpitMakkar12/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ArpitMakkar12/LeetCode/tree/master/0169-majority-element) |
 ## Counting
 |  |
