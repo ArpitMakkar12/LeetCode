@@ -10,26 +10,26 @@
  */
 class Solution {
 
-    public ListNode reverseList(ListNode head) {
-        ListNode curr = head;
+    public ListNode reverse(ListNode head) {
         ListNode prev = null;
+        ListNode curr = head;
         ListNode next = null;
 
         while(curr != null) {
             next = curr.next;
             curr.next = prev;
             prev = curr;
-            curr = next;
+            curr = next; 
         }
+
         return prev;
     }
 
     public boolean isPalindrome(ListNode head) {
-        
-        if(head == null){
+
+        if(head == null) {
             return true;
         }
-
         ListNode slow = head;
         ListNode fast = head.next;
 
@@ -39,25 +39,21 @@ class Solution {
         }
 
         ListNode middle = slow;
-
         ListNode temp = middle.next;
-        middle.next = reverseList(temp);
+
+        middle.next = reverse(temp);
 
         ListNode head1 = head;
         ListNode head2 = middle.next;
 
         while(head2 != null) {
-            if(head1.val != head2.val){
+            if(head1.val != head2.val) {
                 return false;
             }
+
             head1 = head1.next;
             head2 = head2.next;
         }
-
-        //repeat reversal (optional)
-        // temp = middle.next;
-        // middle = reverseList(temp);
-
         return true;
     }
 }
