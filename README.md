@@ -7,6 +7,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/ArpitMakkar12/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/ArpitMakkar12/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/ArpitMakkar12/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/ArpitMakkar12/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ArpitMakkar12/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Divide and Conquer
 |  |
@@ -42,6 +43,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/ArpitMakkar12/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ArpitMakkar12/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ArpitMakkar12/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0234-palindrome-linked-list](https://github.com/ArpitMakkar12/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0636-exclusive-time-of-functions](https://github.com/ArpitMakkar12/LeetCode/tree/master/0636-exclusive-time-of-functions) |
 | [1441-build-an-array-with-stack-operations](https://github.com/ArpitMakkar12/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 ## Simulation
@@ -148,6 +150,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ArpitMakkar12/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0234-palindrome-linked-list](https://github.com/ArpitMakkar12/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ArpitMakkar12/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Dynamic Programming
 |  |
@@ -185,6 +188,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ArpitMakkar12/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/ArpitMakkar12/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/ArpitMakkar12/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Tree
 |  |
 | ------- |
