@@ -36,6 +36,7 @@
 | [0636-exclusive-time-of-functions](https://github.com/ArpitMakkar12/LeetCode/tree/master/0636-exclusive-time-of-functions) |
 | [1441-build-an-array-with-stack-operations](https://github.com/ArpitMakkar12/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/ArpitMakkar12/LeetCode/tree/master/2428-maximum-sum-of-an-hourglass) |
+| [2965-find-missing-and-repeated-values](https://github.com/ArpitMakkar12/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Stack
 |  |
 | ------- |
@@ -57,6 +58,7 @@
 | [0067-add-binary](https://github.com/ArpitMakkar12/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/ArpitMakkar12/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ArpitMakkar12/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [2965-find-missing-and-repeated-values](https://github.com/ArpitMakkar12/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Enumeration
 |  |
 | ------- |
@@ -122,6 +124,7 @@
 | [0036-valid-sudoku](https://github.com/ArpitMakkar12/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ArpitMakkar12/LeetCode/tree/master/0037-sudoku-solver) |
 | [0169-majority-element](https://github.com/ArpitMakkar12/LeetCode/tree/master/0169-majority-element) |
+| [2965-find-missing-and-repeated-values](https://github.com/ArpitMakkar12/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ArpitMakkar12/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Backtracking
 |  |
@@ -133,6 +136,7 @@
 | [0036-valid-sudoku](https://github.com/ArpitMakkar12/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ArpitMakkar12/LeetCode/tree/master/0037-sudoku-solver) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/ArpitMakkar12/LeetCode/tree/master/2428-maximum-sum-of-an-hourglass) |
+| [2965-find-missing-and-repeated-values](https://github.com/ArpitMakkar12/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Algorithm X
 |  |
 | ------- |
