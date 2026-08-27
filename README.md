@@ -15,10 +15,12 @@
 | [0023-merge-k-sorted-lists](https://github.com/ArpitMakkar12/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/ArpitMakkar12/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/ArpitMakkar12/LeetCode/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ArpitMakkar12/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ArpitMakkar12/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ArpitMakkar12/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
@@ -36,6 +38,7 @@
 | [0169-majority-element](https://github.com/ArpitMakkar12/LeetCode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/ArpitMakkar12/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ArpitMakkar12/LeetCode/tree/master/0213-house-robber-ii) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ArpitMakkar12/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/ArpitMakkar12/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0636-exclusive-time-of-functions](https://github.com/ArpitMakkar12/LeetCode/tree/master/0636-exclusive-time-of-functions) |
 | [1441-build-an-array-with-stack-operations](https://github.com/ArpitMakkar12/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
@@ -183,6 +186,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ArpitMakkar12/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ArpitMakkar12/LeetCode/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ArpitMakkar12/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -219,4 +223,8 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/ArpitMakkar12/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ArpitMakkar12/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ArpitMakkar12/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ArpitMakkar12/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
