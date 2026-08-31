@@ -42,6 +42,7 @@
 | [0238-product-of-array-except-self](https://github.com/ArpitMakkar12/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0636-exclusive-time-of-functions](https://github.com/ArpitMakkar12/LeetCode/tree/master/0636-exclusive-time-of-functions) |
 | [1441-build-an-array-with-stack-operations](https://github.com/ArpitMakkar12/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/ArpitMakkar12/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/ArpitMakkar12/LeetCode/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2965-find-missing-and-repeated-values](https://github.com/ArpitMakkar12/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Stack
@@ -227,4 +228,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ArpitMakkar12/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Greedy
+|  |
+| ------- |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/ArpitMakkar12/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 <!---LeetCode Topics End-->
