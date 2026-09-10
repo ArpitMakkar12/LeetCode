@@ -229,6 +229,7 @@
 | [0133-clone-graph](https://github.com/ArpitMakkar12/LeetCode/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ArpitMakkar12/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ArpitMakkar12/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0684-redundant-connection](https://github.com/ArpitMakkar12/LeetCode/tree/master/0684-redundant-connection) |
 ## Binary Tree
 |  |
 | ------- |
@@ -247,8 +248,14 @@
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/ArpitMakkar12/LeetCode/tree/master/0133-clone-graph) |
+| [0684-redundant-connection](https://github.com/ArpitMakkar12/LeetCode/tree/master/0684-redundant-connection) |
 ## Graph Theory
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/ArpitMakkar12/LeetCode/tree/master/0133-clone-graph) |
+| [0684-redundant-connection](https://github.com/ArpitMakkar12/LeetCode/tree/master/0684-redundant-connection) |
+## Union-Find
+|  |
+| ------- |
+| [0684-redundant-connection](https://github.com/ArpitMakkar12/LeetCode/tree/master/0684-redundant-connection) |
 <!---LeetCode Topics End-->
