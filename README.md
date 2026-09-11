@@ -39,6 +39,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/ArpitMakkar12/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/ArpitMakkar12/LeetCode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/ArpitMakkar12/LeetCode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/ArpitMakkar12/LeetCode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/ArpitMakkar12/LeetCode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ArpitMakkar12/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/ArpitMakkar12/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -153,6 +154,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/ArpitMakkar12/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ArpitMakkar12/LeetCode/tree/master/0037-sudoku-solver) |
+| [0200-number-of-islands](https://github.com/ArpitMakkar12/LeetCode/tree/master/0200-number-of-islands) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/ArpitMakkar12/LeetCode/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2965-find-missing-and-repeated-values](https://github.com/ArpitMakkar12/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Algorithm X
@@ -229,6 +231,7 @@
 | [0133-clone-graph](https://github.com/ArpitMakkar12/LeetCode/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ArpitMakkar12/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ArpitMakkar12/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/ArpitMakkar12/LeetCode/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/ArpitMakkar12/LeetCode/tree/master/0684-redundant-connection) |
 ## Binary Tree
 |  |
@@ -248,6 +251,7 @@
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/ArpitMakkar12/LeetCode/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/ArpitMakkar12/LeetCode/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/ArpitMakkar12/LeetCode/tree/master/0684-redundant-connection) |
 ## Graph Theory
 |  |
@@ -257,5 +261,6 @@
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/ArpitMakkar12/LeetCode/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/ArpitMakkar12/LeetCode/tree/master/0684-redundant-connection) |
 <!---LeetCode Topics End-->
