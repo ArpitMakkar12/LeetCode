@@ -1,18 +1,19 @@
 class Solution {
     public int majorityElement(int[] nums) {
-        
-        //Moore's Algorithm
+        // Moore's Algo
+
         int freq = 0, ans = 0;
+        int n = nums.length;
 
         for(int i = 0; i < nums.length; i++) {
-            if(freq == 0){
+            if(freq == 0) {
                 ans = nums[i];
             }
 
             if(ans == nums[i]) {
-                freq++;
+                freq++; 
             } else {
-                freq --;
+                freq--;
             }
         }
 
@@ -23,7 +24,7 @@ class Solution {
             }
         }
 
-        if(count > nums.length / 2) {
+        if(count >= n / 2) {
             return ans;
         } else {
             return -1;
