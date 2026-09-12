@@ -44,6 +44,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/ArpitMakkar12/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/ArpitMakkar12/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0636-exclusive-time-of-functions](https://github.com/ArpitMakkar12/LeetCode/tree/master/0636-exclusive-time-of-functions) |
+| [0994-rotting-oranges](https://github.com/ArpitMakkar12/LeetCode/tree/master/0994-rotting-oranges) |
 | [1441-build-an-array-with-stack-operations](https://github.com/ArpitMakkar12/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ArpitMakkar12/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/ArpitMakkar12/LeetCode/tree/master/2428-maximum-sum-of-an-hourglass) |
@@ -155,6 +156,7 @@
 | [0036-valid-sudoku](https://github.com/ArpitMakkar12/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ArpitMakkar12/LeetCode/tree/master/0037-sudoku-solver) |
 | [0200-number-of-islands](https://github.com/ArpitMakkar12/LeetCode/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/ArpitMakkar12/LeetCode/tree/master/0994-rotting-oranges) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/ArpitMakkar12/LeetCode/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2965-find-missing-and-repeated-values](https://github.com/ArpitMakkar12/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Algorithm X
@@ -253,6 +255,7 @@
 | [0133-clone-graph](https://github.com/ArpitMakkar12/LeetCode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/ArpitMakkar12/LeetCode/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/ArpitMakkar12/LeetCode/tree/master/0684-redundant-connection) |
+| [0994-rotting-oranges](https://github.com/ArpitMakkar12/LeetCode/tree/master/0994-rotting-oranges) |
 ## Graph Theory
 |  |
 | ------- |
