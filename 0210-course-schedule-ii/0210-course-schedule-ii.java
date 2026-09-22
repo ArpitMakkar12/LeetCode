@@ -49,7 +49,7 @@ class Solution {
         for(int i = 0; i < numCourses; i++) {
             if(!visited[i]) {
                 if(isCycleDFS(i, visited, recPath, prerequisites)) {
-                    return new int[0];
+                    return new int[]{};
                 }
             }
         }
