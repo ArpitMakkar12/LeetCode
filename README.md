@@ -94,6 +94,7 @@
 | [0175-combine-two-tables](https://github.com/ArpitMakkar12/LeetCode/tree/master/0175-combine-two-tables) |
 | [0180-consecutive-numbers](https://github.com/ArpitMakkar12/LeetCode/tree/master/0180-consecutive-numbers) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/ArpitMakkar12/LeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
+| [0185-department-top-three-salaries](https://github.com/ArpitMakkar12/LeetCode/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/ArpitMakkar12/LeetCode/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/ArpitMakkar12/LeetCode/tree/master/0197-rising-temperature) |
 | [0550-game-play-analysis-iv](https://github.com/ArpitMakkar12/LeetCode/tree/master/0550-game-play-analysis-iv) |
