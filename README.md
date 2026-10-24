@@ -241,6 +241,7 @@
 | [0100-same-tree](https://github.com/ArpitMakkar12/LeetCode/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ArpitMakkar12/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ArpitMakkar12/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0572-subtree-of-another-tree](https://github.com/ArpitMakkar12/LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -252,6 +253,7 @@
 | [0200-number-of-islands](https://github.com/ArpitMakkar12/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/ArpitMakkar12/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ArpitMakkar12/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0572-subtree-of-another-tree](https://github.com/ArpitMakkar12/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0684-redundant-connection](https://github.com/ArpitMakkar12/LeetCode/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/ArpitMakkar12/LeetCode/tree/master/0733-flood-fill) |
 ## Binary Tree
@@ -261,6 +263,7 @@
 | [0100-same-tree](https://github.com/ArpitMakkar12/LeetCode/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ArpitMakkar12/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ArpitMakkar12/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0572-subtree-of-another-tree](https://github.com/ArpitMakkar12/LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## Quickselect
 |  |
 | ------- |
@@ -301,4 +304,12 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/ArpitMakkar12/LeetCode/tree/master/0207-course-schedule) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/ArpitMakkar12/LeetCode/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/ArpitMakkar12/LeetCode/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
