@@ -238,12 +238,14 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ArpitMakkar12/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/ArpitMakkar12/LeetCode/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ArpitMakkar12/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ArpitMakkar12/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ArpitMakkar12/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/ArpitMakkar12/LeetCode/tree/master/0100-same-tree) |
 | [0133-clone-graph](https://github.com/ArpitMakkar12/LeetCode/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ArpitMakkar12/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ArpitMakkar12/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -256,6 +258,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ArpitMakkar12/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/ArpitMakkar12/LeetCode/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ArpitMakkar12/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ArpitMakkar12/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Quickselect
@@ -269,6 +272,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/ArpitMakkar12/LeetCode/tree/master/0100-same-tree) |
 | [0133-clone-graph](https://github.com/ArpitMakkar12/LeetCode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/ArpitMakkar12/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/ArpitMakkar12/LeetCode/tree/master/0207-course-schedule) |
