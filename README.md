@@ -241,6 +241,7 @@
 | [0100-same-tree](https://github.com/ArpitMakkar12/LeetCode/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ArpitMakkar12/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ArpitMakkar12/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/ArpitMakkar12/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/ArpitMakkar12/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ArpitMakkar12/LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
@@ -251,6 +252,7 @@
 | [0133-clone-graph](https://github.com/ArpitMakkar12/LeetCode/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ArpitMakkar12/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ArpitMakkar12/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/ArpitMakkar12/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/ArpitMakkar12/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/ArpitMakkar12/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ArpitMakkar12/LeetCode/tree/master/0210-course-schedule-ii) |
@@ -265,6 +267,7 @@
 | [0100-same-tree](https://github.com/ArpitMakkar12/LeetCode/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ArpitMakkar12/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ArpitMakkar12/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/ArpitMakkar12/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/ArpitMakkar12/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ArpitMakkar12/LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## Quickselect
@@ -280,6 +283,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/ArpitMakkar12/LeetCode/tree/master/0100-same-tree) |
 | [0133-clone-graph](https://github.com/ArpitMakkar12/LeetCode/tree/master/0133-clone-graph) |
+| [0199-binary-tree-right-side-view](https://github.com/ArpitMakkar12/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/ArpitMakkar12/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/ArpitMakkar12/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ArpitMakkar12/LeetCode/tree/master/0210-course-schedule-ii) |
