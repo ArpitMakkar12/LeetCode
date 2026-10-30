@@ -251,6 +251,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/ArpitMakkar12/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/ArpitMakkar12/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ArpitMakkar12/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/ArpitMakkar12/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ArpitMakkar12/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -270,6 +271,7 @@
 | [0572-subtree-of-another-tree](https://github.com/ArpitMakkar12/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0684-redundant-connection](https://github.com/ArpitMakkar12/LeetCode/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/ArpitMakkar12/LeetCode/tree/master/0733-flood-fill) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/ArpitMakkar12/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ArpitMakkar12/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -285,6 +287,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/ArpitMakkar12/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/ArpitMakkar12/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ArpitMakkar12/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/ArpitMakkar12/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ArpitMakkar12/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Quickselect
 |  |
@@ -350,4 +353,8 @@
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ArpitMakkar12/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/ArpitMakkar12/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 <!---LeetCode Topics End-->
