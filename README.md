@@ -85,6 +85,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/ArpitMakkar12/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/ArpitMakkar12/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0067-add-binary](https://github.com/ArpitMakkar12/LeetCode/tree/master/0067-add-binary) |
+| [0257-binary-tree-paths](https://github.com/ArpitMakkar12/LeetCode/tree/master/0257-binary-tree-paths) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ArpitMakkar12/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Bit Manipulation
 |  |
@@ -165,6 +166,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/ArpitMakkar12/LeetCode/tree/master/0037-sudoku-solver) |
+| [0257-binary-tree-paths](https://github.com/ArpitMakkar12/LeetCode/tree/master/0257-binary-tree-paths) |
 ## Matrix
 |  |
 | ------- |
@@ -248,6 +250,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/ArpitMakkar12/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ArpitMakkar12/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ArpitMakkar12/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/ArpitMakkar12/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0513-find-bottom-left-tree-value](https://github.com/ArpitMakkar12/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0538-convert-bst-to-greater-tree](https://github.com/ArpitMakkar12/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ArpitMakkar12/LeetCode/tree/master/0543-diameter-of-binary-tree) |
@@ -267,6 +270,7 @@
 | [0207-course-schedule](https://github.com/ArpitMakkar12/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ArpitMakkar12/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ArpitMakkar12/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/ArpitMakkar12/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0513-find-bottom-left-tree-value](https://github.com/ArpitMakkar12/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0538-convert-bst-to-greater-tree](https://github.com/ArpitMakkar12/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ArpitMakkar12/LeetCode/tree/master/0543-diameter-of-binary-tree) |
@@ -286,6 +290,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/ArpitMakkar12/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ArpitMakkar12/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ArpitMakkar12/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/ArpitMakkar12/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0513-find-bottom-left-tree-value](https://github.com/ArpitMakkar12/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0538-convert-bst-to-greater-tree](https://github.com/ArpitMakkar12/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ArpitMakkar12/LeetCode/tree/master/0543-diameter-of-binary-tree) |
