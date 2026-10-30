@@ -35,7 +35,7 @@ class Solution {
             long stIdx = q.peekFirst().idx;
             long endIdx = q.peekLast().idx;
 
-            maxWidth = Math.max(maxWidth, (int)(endIdx - stIdx) + 1);
+            maxWidth = Math.max(maxWidth, (int)(endIdx - stIdx + 1));
 
             for(int i = 0; i < currLevelSize; i++) {
                 Pair curr = q.poll();
