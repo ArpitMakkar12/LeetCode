@@ -19,7 +19,7 @@ class Solution {
         TreeNode node;
         long idx;
 
-        Pair(TreeNode node, int idx){
+        Pair(TreeNode node, long idx){
             this.node = node;
             this.idx = idx;
         }
@@ -40,14 +40,14 @@ class Solution {
             for(int i = 0; i < currLevelSize; i++) {
                 Pair curr = q.poll();
                 TreeNode currNode = curr.node;
-                long currIdx = curr.idx;
+                long currIdx = curr.idx - stIdx;
 
                 if(currNode.left != null) {
-                    q.add(new Pair(currNode.left, (int)currIdx * 2 + 1));
+                    q.add(new Pair(currNode.left, currIdx * 2 + 1));
                 }
 
                 if(currNode.right != null){
-                    q.add(new Pair(currNode.right, (int)currIdx * 2 + 2));
+                    q.add(new Pair(currNode.right, currIdx * 2 + 2));
                 }
             }
         }
